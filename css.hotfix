@@ -1,0 +1,49 @@
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+h1 {
+  color: rgb(248, 0, 0);
+  text-align: center;
+}
+h3 {
+  color: #fffb00;
+}
+h4 {
+  color: #fffb00;
+}
+
+p {color: #fffb00; border-style:solid ; border-color: red; width:fit-content; outline: 100px;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(251, 255, 0);
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(255, 0, 0);
+}
+
+/* selected link */
+a:active {
+  color: rgb(228, 59, 219);
+}
+/* Style the header */
+.header{
+  background-color: #ececec;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;}
